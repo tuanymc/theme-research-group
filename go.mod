@@ -1,4 +1,4 @@
-module github.com/tuanymc/starter-hugo-research-group
+module github.com/tuanymc/theme-research-group
 
 go 1.15
 
